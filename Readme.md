@@ -33,9 +33,7 @@ https://data.gov.il/dataset/e-data-gov-il-dataset-yeshuvmoatzadata/resource/08f3
 
 ## Prerequisites
 
-- Open Cmd
-
-- Run:
+- Open Cmd --> Run:
   ```sh
   pip install -r requirements.txt
   ```
